@@ -5,7 +5,7 @@
 
 // Definição dos pinos onde os dispositivos estão conectados
 #define SERVO_PIN 22      // Pino usado para controlar o servo motor
-#define LED_RED_PIN 12    // Pino onde o LED vermelho está conectado
+#define LED_RED_PIN 12    // Pino onde o LED
 
 // Configuração do PWM (Pulse Width Modulation - Modulação por Largura de Pulso)
 #define PWM_CLOCK_DIVIDER 64.0    // Define a frequência do PWM, garantindo compatibilidade com servos
