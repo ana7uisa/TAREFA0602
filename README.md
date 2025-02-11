@@ -27,3 +27,5 @@ Durante os testes utilizando a ferramenta **BitDogLab**, foi observado que a ilu
 
 Este projeto demonstrou a utilização do PWM no Raspberry Pi Pico W para controle preciso de um servomotor, permitindo entender na prática a relação entre duty cycle e ângulo de posicionamento.
 
+## Vídeo
+https://drive.google.com/file/d/1WEsdxfXrZa9Xtw2_fHTVtjZPim_prrBQ/view?usp=sharing
